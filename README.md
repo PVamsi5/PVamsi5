@@ -25,6 +25,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+</div>
+
+<!-- About Me -->
+---
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 - 👋 Hi, I’m @PVamsi5
 - 👀 I’m interested in coding and also webdevelopment
 - 🌱 I’m currently learning Web dev
