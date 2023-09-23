@@ -45,28 +45,28 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### <h2> <img src = "https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width = 32px height=30px> Languages </h2>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;>
 </div>
 
 <!-- Frameworks -->
 ---
 ### <h2> <img src = "https://media.giphy.com/media/nNvZTDJq8pSngnblOs/giphy.gif" width = 32px height=30px> Frameworks </h2>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="Nodejs" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="Nodejs" width="40" height="40"/>&nbsp;>
 </div>
 
 <!-- Tools -->
 ---
 ### <h2> <img src = "https://media.giphy.com/media/Gok5NWmL9rBfOu0UxO/giphy.gif" width = 32px height=30px> Tools </h2>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="Gcloud" width="40" height="40"/>&nbsp;>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSql" alt="psql" width="40" height="40"/>&nbsp;>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="Gcloud" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSql" alt="psql" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;>
 </div>
 
 
