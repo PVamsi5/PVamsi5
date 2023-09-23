@@ -69,7 +69,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;>
 </div>
 
+<h2> <img src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='40px' height=32px> GitHub Stats </h2>
 
+![Vamsi's github stats](https://github-readme-stats.vercel.app/api?username=pvamsi5&count_private=true&show_icons=true&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&line_height=20&card_width=350)
+![Vamsi's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvamsi5&hide=Roff&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&count_private=true&card_width=350)
+
+<h2> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=30px alt="connect"> Connect with me  </h2>
+<a href= mailto:polisettyvamsi11@gmail.com> <img width ='52px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png'> </a>
+<a href= https://www.linkedin.com/in/polisetty-vamsi/> <img width ='42px' height='42px' src  ='https://cdn-icons-png.flaticon.com/512/174/174857.png'> </a>
+<a href= https://www.instagram.com/juz_1_2_b_gud/ > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png'> </a>
+<a href= https://www.facebook.com/polisetty.vamsi1 > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/2048px-Facebook_icon_2013.svg.png'> </a>
+<a href= https://twitter.com/vamsipol > <img width ='42px' height='42px' src  ='https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png'> </a>
 <!---
 PVamsi5/PVamsi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
