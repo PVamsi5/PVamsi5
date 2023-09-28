@@ -56,17 +56,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### <h2> <img src = "https://media.giphy.com/media/nNvZTDJq8pSngnblOs/giphy.gif" width = 32px height=30px> Frameworks </h2>
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="Nodejs" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/spring.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nodejs.svg" title="NodeJs" alt="Nodejs" width="40" height="40"/>&nbsp;
 </div>
 
 <!-- Tools -->
 ---
 ### <h2> <img src = "https://media.giphy.com/media/Gok5NWmL9rBfOu0UxO/giphy.gif" width = 32px height=30px> Tools </h2>
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="Gcloud" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSql" alt="psql" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;>
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/gcp.svg" title="GCP" alt="Gcloud" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/postgresql.svg" title="PSql" alt="psql" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/qt.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
 </div>
 
 <h2> <img src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='40px' height=32px> GitHub Stats </h2>
